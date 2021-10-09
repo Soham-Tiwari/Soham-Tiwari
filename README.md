@@ -1,35 +1,32 @@
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Harikrushn Kanani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Soham Tiwari <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://twitter.com/Harikrushn9" target="blank"><img src="https://img.shields.io/twitter/follow/Harikrushn9?logo=twitter&style=for-the-badge" alt="Harikrushn9" /></a>&nbsp
 <a href="https://www.linkedin.com/in/harikrushn-kanani"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="http:/harikanani.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp
-   <a href="mailto:harikanani2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harikanani2003@gmail.com" />
+   <a href="mailto:sohamtiwari7777@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sohamtiwari7777@gmail.com" />
   </a>
 </p>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
+<h3> 🧑 I'm a Programmer and Designer</h3>
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)
+- 🔭 I’m currently working on [Regnum](https://github.com/Soham-Tiwari/Regnum)
 
-- 🌱 I’m currently learning **Everything 🤣**
+- 🌱 I’m currently learning **Many Things 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harikanani/](https://github.com/harikanani/)
+- 👨‍💻 All of my projects are available at [https://github.com/Soham-Tiwari/](https://github.com/Soham-Tiwari/)
 
-- 💬 Ask me about **Python,JavaScript,Node.Js**
+- 💬 Ask me about **HTML,JavaScript,Css and even some Designing**
 
-- 📫 How to reach me **harikanani2003@gmail.com**
+- 📫 How to reach me **sohamtiwari7777@gmail.com*
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harikrushn-kanani/](https://www.linkedin.com/in/harikrushn-kanani/)
-
-- ⚡ Fun fact **I love to code**
+- ⚡ Fun fact **I am Glad that I will not be young in future without wilderness.**
 
 ## 🌐 Languages and Tools :
 <p align="left">
