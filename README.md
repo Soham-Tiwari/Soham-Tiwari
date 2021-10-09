@@ -125,5 +125,5 @@
 
 <br/>  
 
-![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=harikanani&theme=nord) 
+![harikanani's github activity graph](https://activity-graph.herokuapp.com/graph?username=soham-tiwari&theme=nord) 
 
