@@ -120,9 +120,13 @@
     </a>
     <a href="https://ubuntu.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
-           <h3> 🧑 I'm a Programmer and Designer</h3>
+           
+           <h3> More About Me :- </h3>
+           My name is Soham Tiwari, and I am a former bully. It’s taken a long time for me to admit that about myself. But, one day, I started practice Meditation, Playing peacefully and studying efficiently and started loving it and right now , I am a humorist full of Intelligence and Patience :)
 
-           </a></p>
+           </a>
+           
+      </p>
            
 <br/>  
 
