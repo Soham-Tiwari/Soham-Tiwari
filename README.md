@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Regnum](https://github.com/Soham-Tiwari/Regnum)
 
-- 🌱 I’m currently learning **Many Things 🤣**
+- 🌱 I’m currently learning **Many Things like Table Tennis, World of Teenagers :) and even Website Designing (Part-56)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Soham-Tiwari/](https://github.com/Soham-Tiwari/)
 
