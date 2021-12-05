@@ -4,13 +4,10 @@
 
 
 ## 💡 Connect with me :
-<p align="left"> 
+<p align="right"> 
 
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
    <a href="https://t.me/digitn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/soham-tiwari-703718201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="mailto:sohamtiwari7777@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sohamtiwari7777@gmail.com" />
   </a>
 </p>
 
@@ -22,7 +19,7 @@
 
 - 🌱 I’m currently learning **Many Things like Table Tennis, World of Teenagers :) and even Website Designing (Part-56)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Soham-Tiwari/](https://github.com/Soham-Tiwari/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Soham-Tiwari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 - 💬 Ask me about **HTML,JavaScript,Css and even some Designing**
 
