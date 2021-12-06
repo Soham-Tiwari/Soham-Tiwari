@@ -103,7 +103,7 @@ My name is Soham Tiwari, and I am a former bully. It’s taken a long time for m
     </a>
     <a href="https://www.android.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
-    </a
+       </a> <a img src="https://github-readme-streak-stats.herokuapp.com/?user={username}"/></a>
       </p>
 <br/>  
 
