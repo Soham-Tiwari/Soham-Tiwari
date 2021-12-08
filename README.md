@@ -105,4 +105,11 @@ My name is Soham Tiwari, and I am a former bully. It’s taken a long time for m
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> </a>
       </p>
 <br/>  
+   
+   
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
 
