@@ -1,9 +1,5 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Soham Tiwari ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
-
-
-## 💡 Connect with me :
 <p align="right"> 
 
    <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
