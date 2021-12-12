@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Regnum](https://github.com/Soham-Tiwari/Regnum)
 
-- 🌱 I’m currently learning **Many Things like Table Tennis, World of Teenagers :) and even Website Designing (Part-56)**
+- 🌱 I’m currently learning World of Teenagers :) and even Website Designing (Part-56)**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Soham-Tiwari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
