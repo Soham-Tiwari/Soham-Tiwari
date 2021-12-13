@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Soham-Tiwari"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-- 💬 Ask me about **HTML,JavaScript,Css and even some Designing**
+- 💬 Ask me about **HTML,JavaScript,Css and even some Designing*
 
 - 📫 How to reach me **sohamtiwari7777@gmail.com*
 
