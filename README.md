@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sohamtiwari7777@gmail.com*
 
-- ⚡ Fun fact **I am Glad that I will not be young in future without wilderness.**
+- ⚡ Fun fact **I is me :)**
 
 ## More About Me : 
 My name is Soham Tiwari, and I am a former bully. It’s taken a long time for me to admit that about myself. But, one day, I started practice Meditation, Playing peacefully and studying efficiently and started loving it and right now , I am a humorist full of Intelligence and Patience :)
